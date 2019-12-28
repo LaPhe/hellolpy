@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 if(2)
 
 hello nttn274
 
+=======
+if(2)
+hello nttn274
+>>>>>>> 1ad8148ffc68b7be2db02d2a86271e01e77e63d6
