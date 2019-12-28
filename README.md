@@ -1,2 +1,2 @@
 # hellolpy
-learn gut advance
+learn git advance
